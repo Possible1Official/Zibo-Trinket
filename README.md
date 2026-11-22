@@ -7,6 +7,7 @@ The CAD folder contains a .step and .3mf file for 3D printing.
 
 Please preserve the colors provided in the attached files as closely as your printing equipment allows.
 For the finish, standard is okay, but Matte is prefered if possible.
+Here is its Onshape document link: https://cad.onshape.com/documents/52ae226953b54cdd77818f29
 <img src="Images/Mini_Zibo-Front.png"/>
 <img src="Images/Mini_Zibo-Front_Three_Quarter.png"/>
 <img src="Images/Mini_Zibo-Rear_Three_Quarter.png"/>
